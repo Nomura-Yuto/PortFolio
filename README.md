@@ -1,6 +1,6 @@
 # [ポートフォリオ](https://drive.google.com/file/d/1VUdHC6jbNdSAlbcQmRhTg-GZTEiPaUH9)
 本リポジトリには、ポートフォリオに記載したプロジェクトの該当コードを掲載しています。  
-その他の補足コードについては、[こちら](https://github.com/Nomura-Yuto/PortFolio#%E3%81%9D%E3%81%AE%E4%BB%96%E3%81%AE%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AF%E4%B8%8B%E8%A8%98%E3%83%AA%E3%83%B3%E3%82%AFgithub%E3%81%8B%E3%82%89)のリンクにて公開しています。  
+その他の補足コードについては、[こちら](https://github.com/Nomura-Yuto/PortFolio/blob/main/README.md#その他リンク(GitHub))のリンクにて公開しています。  
 ## RefPrism
 #### (P.5)反射/屈折ベクトルの計算
 - ベクトルの計算関数
