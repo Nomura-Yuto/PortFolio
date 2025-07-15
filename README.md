@@ -46,7 +46,7 @@
 	- [`player.cpp`](https://github.com/Nomura-Yuto/PortFolio/blob/main/BOUNDINNG/player.cpp)
   
   
-# その他のソースコードは下記リンク(GitHub)から
+# その他リンク(GitHub)
 [RefPrism](https://github.com/Nomura-Yuto/RefPrism)  
 [Enervault](https://github.com/Nomura-Yuto/Enervault)  
 [憑守神](https://github.com/Nomura-Yuto/Tukumorigami)  
