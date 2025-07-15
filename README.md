@@ -1,6 +1,6 @@
 # [ポートフォリオ](https://drive.google.com/file/d/1VUdHC6jbNdSAlbcQmRhTg-GZTEiPaUH9)
 本リポジトリには、ポートフォリオに記載したプロジェクトの該当コードを掲載しています。  
-その他の補足コードについては、[こちら](https://github.com/Nomura-Yuto/PortFolio/blob/main/README.md#その他リンクGitHub)のリンクにて公開しています。  
+その他のコードについては、[こちら](https://github.com/Nomura-Yuto/PortFolio/blob/main/README.md#GitHubリンク)のリンクにて公開しています。  
 ## RefPrism
 #### (P.5)反射/屈折ベクトルの計算
 - ベクトルの計算関数
@@ -46,7 +46,7 @@
 	- [`player.cpp`](https://github.com/Nomura-Yuto/PortFolio/blob/main/BOUNDINNG/player.cpp)
   
   
-# その他リンク(GitHub)
+# GitHubリンク
 [RefPrism](https://github.com/Nomura-Yuto/RefPrism)  
 [Enervault](https://github.com/Nomura-Yuto/Enervault)  
 [憑守神](https://github.com/Nomura-Yuto/Tukumorigami)  
